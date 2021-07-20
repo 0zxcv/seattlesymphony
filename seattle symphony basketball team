@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Seattle Symphony</title>
+<link rel="stylesheet" href="seattle symphony basketball team css.css">
+
+</head>
+
+<body>
+    <header>
+        <h1>Seattle Symphony Basketball Team</h1>
+        <img id="seaLogo" src="SEA.png">
+    </header>
+<img id="jersey1" src="jersey.PNG"
+</body>
+
+
+</html>
